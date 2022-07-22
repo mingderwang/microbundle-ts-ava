@@ -1,7 +1,7 @@
 {
-  "name": "microbundle-ts-pkg",
+  "name": "@muzamint/microbundle-ts-ava",
   "description": "A TypeScript npm package skeleton/starter project with microbundle, AVA and XO",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "source": "src/main.ts",
   "main": "dist/main.umd.js",
   "module": "dist/main.modern.module.js",
